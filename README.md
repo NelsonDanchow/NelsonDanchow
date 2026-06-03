@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NelsonDanchow/NelsonDanchow/blob/main/banner.jpg" alt="Nelson Danchow Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="https://github.com/NelsonDanchow/NelsonDanchow/blob/main/banner2.jpg" alt="Nelson Danchow Banner" width="100%" style="border-radius: 15px;"/>
 </div>
 
 <br>
